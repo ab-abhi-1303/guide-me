@@ -1,3 +1,8 @@
+## An app which gives thoughts on clicking a button by fetching data from external API
+
+![alt text](https://github.com/ab-abhi-1303/guide-me/blob/master/src/Capture.PNG)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
